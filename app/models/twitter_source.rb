@@ -1,0 +1,2 @@
+class TwitterSource < Source
+end
